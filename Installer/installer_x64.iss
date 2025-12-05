@@ -61,8 +61,8 @@ ar.runOnStartup=التشغيل مع بدء التشغيل
 Name: startup; Description: "{cm:runOnStartup}";
 
 [Files]
-Source: "C:\Users\Ahnaf\source\repos\WSA-SystemControl\WSA System Control\bin\Release\net10.0-windows10.0.26100.0\publish\win-x64\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Ahnaf\source\repos\WSA-SystemControl\WSA System Control\bin\Release\net10.0-windows10.0.26100.0\publish\win-x64\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\Ahnaf\source\repos\WSA-SystemControl\WSA System Control\bin\Release\net10.0-windows10.0.26100\publish\win-x64\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Ahnaf\source\repos\WSA-SystemControl\WSA System Control\bin\Release\net10.0-windows10.0.26100\publish\win-x64\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
