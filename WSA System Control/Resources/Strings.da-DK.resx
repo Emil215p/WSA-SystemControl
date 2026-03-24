@@ -128,7 +128,7 @@ En simpel systembakke-applikation som tillader dig at overvåge WSA-statussen sa
     <value>WSA System Control kører allerede!</value>
   </data>
   <data name="AndroidSettings" xml:space="preserve">
-    <value>Android-Indstillinger</value>
+    <value>Android-indstillinger</value>
   </data>
   <data name="CheckUpdates" xml:space="preserve">
     <value>Tjek for opdateringer</value>
@@ -155,17 +155,17 @@ En simpel systembakke-applikation som tillader dig at overvåge WSA-statussen sa
     <value>Stop WSA</value>
   </data>
   <data name="WSAFiles" xml:space="preserve">
-    <value>WSA-Filer</value>
+    <value>WSA-filer</value>
   </data>
   <data name="WSANotInstalled" xml:space="preserve">
     <value>WSA ikke installeret</value>
   </data>
   <data name="WSANotInstalledWin10" xml:space="preserve">
-    <value>WSA installation ikke fundet.
+    <value>WSA-installation ikke fundet.
 For at bruge dette program, sørg for at du har Windows-Undersystem til Android (WSA) installeret på din PC.</value>
   </data>
   <data name="WSANotInstalledWin11" xml:space="preserve">
-    <value>WSA installation ikke fundet.
+    <value>WSA-installation ikke fundet.
 For at bruge dette program, sørg for at du har Windows-Undersystem til Android (WSA) installeret på din PC.</value>
   </data>
   <data name="WSAOffIcon" xml:space="preserve">
@@ -178,6 +178,6 @@ Højreklik for flere muligheder</value>
 Klik for flere muligheder</value>
   </data>
   <data name="WSASettings" xml:space="preserve">
-    <value>WSA-Indstillinger</value>
+    <value>WSA-indstillinger</value>
   </data>
 </root>
